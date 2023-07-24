@@ -1,2 +1,2 @@
 ## sem 5
-this repository is for learniggit  purpose 
+this repository is for learning git  purpose. 
